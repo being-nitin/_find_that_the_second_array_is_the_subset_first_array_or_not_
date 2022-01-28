@@ -73,3 +73,6 @@ public class Main {
         return false;
     }
 }
+//The first loop will run till the length of second array.
+
+
