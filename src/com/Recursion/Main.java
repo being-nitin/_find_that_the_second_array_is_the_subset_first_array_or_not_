@@ -73,6 +73,7 @@ public class Main {
         return false;
     }
 }
-//The first loop will run till the length of second array.
+//The first loop will run till the length of second array.Because the sub array should be exactly
+// the length of the smallest array/
 
 
